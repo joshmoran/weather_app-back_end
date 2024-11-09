@@ -1,5 +1,2 @@
 .env
-html
-html/
-html/src/.env
 node_modules
