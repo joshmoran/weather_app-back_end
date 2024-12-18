@@ -24,5 +24,5 @@ To successfully run the program, please follow these steps:
 - This app really has only one function: 
   - Search for a city
     - The user search for a city on the ReactJS (Frontend) and is a small APi to connect the front-end to the backend
-    - It gets the name by the url of '/<cityname> and searches the city on OpenWeather
+    - It gets the name by the url of '/<cityname>' and searches the city on OpenWeather
     - The gives the data back to front end to the display
