@@ -14,7 +14,7 @@
 # 1. Getting started with the project 
 To successfully run the program, please follow these steps:
 1. rename 'env-template' to '.env'
-2. Edit and change to the desired values
+2. Edit and change the 'env' file to the desired values
    - Port = which port should the weather backend run on
    - API Key = The API key for OpenWeather to get weather updates
 3. Execute the server by running:
